@@ -1,0 +1,14 @@
+
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Beatles Anthology Vol. 1</string>
+
+    <string name="article_subtitle">Fachrul Tampan</string>
+
+    <string name="article_text">
+        Crooz adalah salah satu distro clothing line Indonesia yang mendunia. Hal itu tidak perlu diragukan keberadaannya dan ketenarannya. Sebab pemasaran mereka sudah sangat luas terhadap band dalam maupun luar negeri, seperti Thirteen, Pe Wee Gaskins, dan Sweet As Revenge.
+
+Brand Crooz ini didirikan pada tahun 2003 oleh Max Praditya. Saat ini Crooz telah memiliki banyak outlet di berbagai belahan dunia seperti Singapura, Filipina, Jepang dan masih banyak yang lainnya.
+    </string>
+
+</resources>
